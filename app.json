@@ -8,5 +8,24 @@
     "navigationBarBackgroundColor": "#4AA468",
     "navigationBarTitleText": "爱辉香菇",
     "navigationBarTextStyle":"#fff"
+  },
+  "tabBar": {
+    "selectedColor": "#4AA468",
+    "color": "#666",
+    "backgroundColor":"#fff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/icon_home_normal.png",
+        "selectedIconPath": "images/icon_home_active.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "images/icon_home_normal.png",
+        "selectedIconPath": "images/icon_home_active.png"
+      }
+    ]
   }
 }
