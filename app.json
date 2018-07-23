@@ -6,7 +6,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#4AA468",
-    "navigationBarTitleText": "爱辉香菇",
+    "navigationBarTitleText": "Yasin",
     "navigationBarTextStyle":"#fff"
   },
   "tabBar": {
@@ -22,7 +22,7 @@
       },
       {
         "pagePath": "pages/logs/logs",
-        "text": "日志",
+        "text": "分类",
         "iconPath": "images/icon_home_normal.png",
         "selectedIconPath": "images/icon_home_active.png"
       }

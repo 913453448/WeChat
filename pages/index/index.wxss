@@ -19,3 +19,8 @@
 .usermotto {
   margin-top: 200px;
 }
+.image{
+  width: 686rpx;
+  border-radius: 8rpx;
+  margin-top: 20rpx;
+}
