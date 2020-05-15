@@ -1,18 +1,18 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/logs/logs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#4AA468",
     "navigationBarTitleText": "Yasin",
-    "navigationBarTextStyle":"#fff"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "selectedColor": "#4AA468",
     "color": "#666",
-    "backgroundColor":"#fff",
+    "backgroundColor": "#fff",
     "list": [
       {
         "pagePath": "pages/index/index",
@@ -27,5 +27,6 @@
         "selectedIconPath": "images/icon_home_active.png"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

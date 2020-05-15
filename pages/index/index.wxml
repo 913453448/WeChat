@@ -4,10 +4,14 @@
   scroll-y
 >
   <view class="container">
+          <mp-loading type="circle"></mp-loading>
+  <mp-icon type="field" icon="add" color="black" size="{{25}}"></mp-icon>
+<mp-icon icon="add" color="black" size="{{25}}"></mp-icon>
     <image src='https://www.starbucks.com.cn/images/pages/starbucks-tmall-0628-cn.jpg' class="image"/>
     <image src='https://www.starbucks.com.cn/images/pages/starbucks-design-studio-web-china.jpg' class="image"/>
     <image src='https://www.starbucks.com.cn/images/pages/homepage-career-cn.jpg' class="image"/>
     <image src='https://www.starbucks.com.cn/images/pages/starbucks-tmall-0628-cn.jpg' class="image"/>
     <image src='https://www.starbucks.com.cn/images/pages/starbucks-tmall-0628-cn.jpg' class="image"/>
   </view>
+  
 </scroll-view>
